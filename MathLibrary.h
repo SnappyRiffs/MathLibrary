@@ -17,11 +17,9 @@ public:
   static double Divide(double a, double b);
 
   // Returns a % b
-
   static double Modulus(double a, double b);
 
   // Returns a^b
-
   static double Power(double a, double b);
 };
 } // namespace calc
